@@ -15,5 +15,6 @@ Class label description:
 
 No. of class labels: 5
 Type: Nominal
+
 Values: ● Extraverted ● Serious ● Responsible ● Lively ● dependable
 
